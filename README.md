@@ -111,10 +111,8 @@ Open On Browser & Start New Session
 
 ## Changelog
 
-V3.2.0
-
-- Add Get All Session ID
-- Add Key for secret data
+V0.1
+- Update wa multi session v3.7.0 December 2024 (LATEST)
 - Update README.md
 
 ## Upgrading
